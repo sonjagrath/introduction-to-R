@@ -1,34 +1,32 @@
 .. physalia-reproducibility documentation master file, created by
 
 =================================
-Reproducibility in Bioinformatics
+An Introduction to R
 =================================
 
-Here you will find the materials for the `Physalia course <https://www.physalia-courses.org/courses-workshops/bioinformatics-reproducibility/>`_ **Reproducibility in Bioinformatics**. 
+Here you will find the material for the `Physalia course <https://www.physalia-courses.org/courses-workshops/bioinformatics-reproducibility/>`_ **An Introduction to R**. 
 
-The course will be held online on **Apr 03-05 2023**.
+The course was held online in the winter semester 2022/23 online on **March 6-17, 2023**.
 
 ---------------
 Course overview
 ---------------
 
-In this course we want to increase awareness and introduce strategies how to improve reproducibility of bioinformatic analyses. Through a mixture of theoretical blocks and hands-on exercises the instructors will guide participants to develop skills to increase reproducibility of bioinformatic analyses and workflows using containers, versioning and virtual environments.
+...
 
 --------------------------------------
 Target audience and assumed background
 --------------------------------------
 
-The target audience for this course are graduate students and researchers who work with large datasets. Basic working knowledge of the Linux command line (eg. navigation in the file system, creating files and folders, executing commands) is required and experience with working on remote systems (via ssh) is an advantage. Basic knowledge of a scripting language is also beneficial (eg. python or Perl).
+...
 
 -----------------
 Learning outcomes
 -----------------
 
-- Basic concepts and techniques for modern reproducible bioinformatics data analyses
-- Data organization, documentation and software versioning
-- Setting up and working in virtual software environments
-- Software containerization strategies and caveats - how to use and build containers
-- Knowledge of how to use common workflow management systems
+- ...
+- ...
+- ...
 
 ----------------------
 Getting started

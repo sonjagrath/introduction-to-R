@@ -1,10 +1,10 @@
-.. physalia-reproducibility documentation master file, created by
+.. an-introduction-to-R documentation master file, created by
 
 =================================
 An Introduction to R
 =================================
 
-Here you will find the material for the `Physalia course <https://www.physalia-courses.org/courses-workshops/bioinformatics-reproducibility/>`_ **An Introduction to R**. 
+Here you will find the material for the course **An Introduction to R**. 
 
 The course was held online in the winter semester 2022/23 online on **March 6-17, 2023**.
 

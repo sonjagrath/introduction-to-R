@@ -1,7 +1,7 @@
 # introduction-to-R
 This repository contains the materials for the master module "An Introduction to R".
 
-For a rendered version of the information in this repository go [here](https://introduction-to-R.readthedocs.io/en/latest/). 
+For a rendered version of the information in this repository go [here](https://an-introduction-to-R.readthedocs.io/en/latest/). 
 
 ## DOIs of workshops:
 
